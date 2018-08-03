@@ -14,7 +14,7 @@ A collection of brief pamphlets educating radicals on offensive and defensive di
 ## Volumes:
 
 ### Sept. 2018:
-An Introduction: Decentralize, Autonomize, Collectivize
+An Introduction: Liberate, Autonomize, Collectivize
 
 The overarching process taken up by FotW is:
 
