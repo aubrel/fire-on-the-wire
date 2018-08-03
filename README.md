@@ -1,5 +1,5 @@
 # Fire on the Wire:
-## A guide to building autonomous digital infrastructures
+## Monthly guides on building autonomous digital infrastructures
 
 ### What?
 
