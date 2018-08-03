@@ -89,7 +89,7 @@ There is a war going on between the people who believe design should simplify te
 
   - You will no doubt encounter the hyperparanoid person who argues Signal is not safe because you're using a phone that has connections to Google. While this is not entirely baseless, *it is largely completely irrelevant to your work,* even when you are doing illegal actions. Learn how to properly threat model at the beginning of this book. For the more state actor threat levels, refer to the specific FotW volume either in print or online regarding this level of security.
 
- 0.  There's no Such Thing as Software: A Manifesto
+ 0.  There's No Such Thing as Software: A Manifesto
 
 Of course there is a thing that we call software, but my appeal is to allow yourself to dissolve the preconceived notions you may have about software or digital technologies, so as to make room for the idea that computing is thinking objectified, that it is electricity singing sweet fire on the wire, that the whole of nature is a dialogue to connect to you and this can be another of those things, if we disabuse ourselves of the imperialist history.
 
