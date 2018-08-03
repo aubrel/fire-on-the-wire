@@ -18,8 +18,8 @@ An Introduction: Decentralize, Autonomize, Collectivize
 
 The overarching process taken up by FotW is:
 
- 1.  Decentralize:
-Make yourself and your comrades, friends, and neighbors independent from centralized / corporate services such as Google and social media.
+ 1.  Liberate:
+Make yourself and your comrades, friends, and neighbors independent from centralized, corporate services such as Google and social media, and make the move towards free and open source services and software.
 
  1. Autonomize:
 Learn how to ease yourself into self-hosted services, to create truly autonomous infrastructure.
