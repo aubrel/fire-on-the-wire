@@ -18,20 +18,19 @@ An Introduction: Decentralize, Autonomize, Collectivize
 
 The overarching process taken up by FotW is:
 
- 1.  Decentralize
+ 1.  Decentralize:
 Make yourself and your comrades, friends, and neighbors independent from centralized / corporate services such as Google and social media.
 
- 2. Autonomize
+ 1. Autonomize:
 Learn how to ease yourself into self-hosted services, to create truly autonomous infrastructure.
 
- 3. Collectivize
+ 1. Collectivize:
 Expand and scale the autonomous infrastructures.
 
 This process also progresses from starting with the least amount of technical knowledge, which can be implemented immediately, to the sector that requires the most knowledge, which you will get to eventually.
 
 
 A crash course on the digital tools most radicals don't talk about and how (and why) to use them.
-
 A movement away from centralized services like Google and social media, towards the land of decentralization.
 
   - Terms and concepts:
