@@ -1,37 +1,44 @@
 # Fire on the Wire:
-## Monthly guides on building autonomous digital infrastructures
+## Serial guides on building autonomous digital infrastructures
 
 ### What?
 
-A collection of brief pamphlets educating radicals on offensive and defensive digital techniques and digital infrastructure.
+A collection of small zines educating radicals on constructing autonomous digital infrastructure as well as offensive and defensive digital techniques.
 
 ### How?
 
 • Print guides from AnarchoTech, Tech Autonomy
+• Write overarching contextualizing texts
 
-• Write contextualizing texts
+## Issues:
 
-## Volumes:
+The overarching process and structure taken up by FotW is to handle three primary stages of development, each of which are explored over the course of several issues per topic. The three primary stages of development are:
 
-### Sept. 2018:
-An Introduction: Liberate, Autonomize, Collectivize
+ 1.  Liberation:
+How to make yourself and your comrades, friends, and neighbors more independent from centralized, corporate services such as Google and social media, replacing those services with free and open source services and software.
 
-The overarching process taken up by FotW is:
+ 1. Autonomization:
+ How to ease yourself into building and using self-hosted services so as to create truly autonomous infrastructure.
 
- 1.  Liberate:
-Make yourself and your comrades, friends, and neighbors independent from centralized, corporate services such as Google and social media, and make the move towards free and open source services and software.
+ 1. Collectivization:
+How to expand and scale autonomous infrastructures into networks and multiplicities.
 
- 1. Autonomize:
-Learn how to ease yourself into self-hosted services, to create truly autonomous infrastructure.
+This process progresses from starting with the least amount of technical knowledge, which can be implemented immediately, to the sector that requires the most knowledge, which you will get to eventually.
 
- 1. Collectivize:
-Expand and scale the autonomous infrastructures.
+The other issues in this series will be addendum issues tackling other issues relevant to larger goals. Those addendum issues will be:
 
-This process also progresses from starting with the least amount of technical knowledge, which can be implemented immediately, to the sector that requires the most knowledge, which you will get to eventually.
+1. Defense 101
+   1. Tor & TorBrowser
+   1. Password managers
+   
+1. Offense 101
+   1. Hack This Site
+1. 
 
 
-A crash course on the digital tools most radicals don't talk about and how (and why) to use them.
-A movement away from centralized services like Google and social media, towards the land of decentralization.
+### Liberation (No. 1):
+
+A crash course on the digital tools most radicals don't talk about and how (and why) to use them. A movement away from centralized services like Google and social media, towards the land of decentralization.
 
   - Terms and concepts:
 
@@ -50,7 +57,7 @@ Signal
 Tor/TorBrowser
 Browser plugins: LastPass, HTTPS Everywhere, Privacy Badger, uBlock Origin, NoScript, uMatrix, Location Guard
 
-### Oct. 2018:
+### Liberation (No. 2):
 Asynchronous Communication
 
   - What is async comms and why is it valuable?
@@ -61,7 +68,7 @@ Asynchronous Communication
   - Solutions: Organizing space (Crabgrass, ANP, Persuance)
   - War on Google, and occasional truce
  
-### Nov. 2018:
+### Liberation (No. 3):
 Websites
 
   - Static site vs. server side execution
