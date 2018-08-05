@@ -53,18 +53,6 @@ This process progresses from starting with the least amount of technical knowled
 - "A quiet, niche war"
 - There is a war going on between the people who believe design should simplify technological tools to the point where everything is a shiny button that you click without understanding what is happening, and people who believe design should be beautiful while facilitating genuine education. It is sometimes on the surface hard to distinguish between these people and these sides. If it were not already obvious, this book firmly and mercilessly takes the side of the latter.
 
-## Shared Contents
-
-0. Redefining digital technologies (preface)
-1. Common mistakes in radical circles
-    - Listen to those who know more, when they treat you fairly, but also learn how to distinguish between who knows more than someone else.
-    - Most people who say they know things don't know anything important. This tends to be especially true if the person talks down to you. Fuck those people, they don't know shit and if you read FotW, you'll be able to run circles around them instantly.
-    - In most cases, when comparing virtually equivalent tools, the specific tool does not matter: all digital tools are built on the same foundations, and it is vastly more important to grasp those foundations. Radicals will spent countless hours arguing which is better. We hope these guides will lay those stupid pointless arguments to rest.
-    - Learning to code is usually the last thing you need to know. There are millions of skilled programmers out there who have already poured blood sweat and tears into their work, for you to use them. *So use them!*
-    - You will no doubt encounter the hyperparanoid person who argues Signal is not safe because you're using a phone that has connections to Google. While this is not entirely baseless, *it is largely completely irrelevant to your work,* even when you are doing illegal actions. Learn how to properly threat model at the beginning of this book. For the more state actor threat levels, refer to the specific FotW volume either in print or online regarding this level of security.
-1. There's No Such Thing as Software: A Manifesto
-    - Of course there is a thing that we call software, but my appeal is to allow yourself to dissolve the preconceived notions you may have about software or digital technologies, so as to make room for the idea that computing is thinking objectified, that it is electricity singing sweet fire on the wire, that the whole of nature is a dialogue to connect to you and this can be another of those things, if we disabuse ourselves of the imperialist history.
-
 # License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">![Creative Commons License: BY-NC](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg)</a>
