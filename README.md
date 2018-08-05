@@ -1,16 +1,43 @@
-# Fire on the Wire:
-## Serial guides on building autonomous digital infrastructures
+# Fire on the Wire
 
-### What?
+**Fire on the Wire (FotW)** is a monthly(-ish) periodcal in the format of serial guides about building autonomous digital infrastructures, as well as offensive and defensive digital tactics, techniques and procedures ("TTPs"). The guides are distilled from the work of several local New York City and national United States anarcho-autonomist groups, including the [Anarcho-Tech NYC Collective](https://github.com/AnarchoTechNYC), the [Tech Autonomists](https://tech-autonomy.com/), and select [others](https://github.com/AnarchoTechNYC/meta/wiki/Accomplices-and-allies) who more-or-less share a common liberatory vision. Fire the technocapitalists, wire the future.
+
+# Goals
+
+The goals of FotW are centered around practical education to give more attention to tools that are often underappreciated, ignored, or never make their way to radical circles because of the knowledge silo of Tech Industry. It is *not* the goal of FotW to "teach you to code," get you a tech job, or even to teach you everything there is to know about computers (a daunting task even for the most experienced technologist).
+
+References to places where these writings can be found online are proliferated throughout the issues.
+
+To utilize anarchoautonomist methods to educate motivated individuals and save them the hours they would otherwise spend searching alone.
+
+To make more accessible high-quality information and comprehensive guides on building autonomous digital infrastructure, so that radicals in particular can stop confusing autonomy with proprietary services, like SquareSpace or Google Groups.
+
+**IN SO DOING,**
+
+To break apart technophobia by empowering the ones who thought they could never be empowered due to trauma inflicted by abusive tech scenes or advanced by fear mongers who don't actually know what computers are.
+
+To speak directly to the experience of being a marginalized person who do not feel welcome in most "Tech Spaces."
+
+To undermine the idea that the meme war is the most pertinent digital battle by giving motivated radical communities more powerful tools.
+
+To give governments something to fear about which they can do nothing.
+
+# Contributing
+
+Your contributions are heartily encouraged. :) Fire on the Wire editors welcome any and all suggestions, whether they be as small as fixing a typo or as involved as writing an entire issue. We also encourage you to copy and redistribute these texts in whatever manner you prefer, in accordance with our [license](#license).
+
+See also [CONTRIBUTING.md](CONTRIBUTING.md).
+
+# Overview
+
+## What?
 
 A collection of small zines educating radicals on constructing autonomous digital infrastructure as well as offensive and defensive digital techniques.
 
-### How?
+## How?
 
-* Print guides from AnarchoTech, Tech Autonomy
-* Write overarching contextualizing texts
-
-## Issues:
+- Print guides from AnarchoTech, Tech Autonomy.
+- Write overarching contextualizing texts.
 
 The overarching process and structure taken up by FotW is to handle three primary stages of development, each of which are explored over the course of several issues per topic. The three primary stages of development are:
 
@@ -30,44 +57,8 @@ The other issues in this series will be addendum issues tackling other issues re
 1. Defense 101
     1. Tor & TorBrowser
     1. Password managers
-   
 1. Offense 101
     1. Hack This Site
-1. 
-
-### Liberation (No. 1):
-
-A crash course on the digital tools most radicals don't talk about and how (and why) to use them. A movement away from centralized services like Google and social media, towards the land of decentralization.
-
-- Terms and concepts:
-    - Basic terms: 
-    - Redefining computing
-    - Living off the land
-    - Internet, intranet, extranet
-    - To mesh or not to mesh
-    - Self-hosting
-- The (Unix) terminal (sorry Windows users)
-- A beginner's toolkit, with explanations
-    - Signal
-    - Tor/TorBrowser
-    - Browser plugins: LastPass, HTTPS Everywhere, Privacy Badger, uBlock Origin, NoScript, uMatrix, Location Guard
-
-### Liberation (No. 2):
-Asynchronous Communication
-
-- What is async comms and why is it valuable?
-- "Leaving a note" analogy
-    - Solutions: Digital calendar
-    - Solutions: Self-hosted chat
-    - Solutions: Email
-    - Solutions: Organizing space (Crabgrass, ANP, Persuance)
-    - War on Google, and occasional truce
- 
-### Liberation (No. 3):
-Websites
-
-- Static site vs. server side execution
-
 
 ## Other Content Ideas
 
@@ -87,24 +78,8 @@ Websites
 1. There's No Such Thing as Software: A Manifesto
     - Of course there is a thing that we call software, but my appeal is to allow yourself to dissolve the preconceived notions you may have about software or digital technologies, so as to make room for the idea that computing is thinking objectified, that it is electricity singing sweet fire on the wire, that the whole of nature is a dialogue to connect to you and this can be another of those things, if we disabuse ourselves of the imperialist history.
 
-### The goals of FoW:
+# License
 
-It is not the goal of FoW to "teach you to code," get you a tech job, or even to teach you everything there is to know about computers (a daunting task even for the most experienced technologist).
+<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">![Creative Commons License: BY-NC](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg)</a>
 
-The goals of FoW are centered around practical education to give more attention to tools that are often underappreciated, ignored, or never make their way to radical circles because of the knowledge silo of Tech Industry.
-
-References to places where these and other writings can be found online are proliferated throughout.
-
-To utilize anarchoautonomist methods to educate motivated individuals and save them the hours they would otherwise spend on Google (or hopefully DuckDuckGo).
-
-To make more accessible high-quality information and comprehensive guides on building autonomous digital infrastructure, so that radicals in particular can stop confusing autonomy with SquareSpace.
-
-**IN SO DOING,**
-
-To break apart technophobia by empowering the ones who thought they could never be empowered due to trauma inflicted by abusive tech scenes or advanced by fear mongers who don't actually know what computers are.
-
-To speak directly to the experience of being a marginalized person who do not feel welcome in most "Tech Spaces."
-
-To undermine the idea that the meme war is the most pertinent digital battle by giving motivated radical communities more powerful tools.
-
-To give governments something to fear about which they can do nothing.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  ([What does this mean?](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-%28cc-nc%29))
