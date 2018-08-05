@@ -41,24 +41,11 @@ A collection of small zines educating radicals on constructing autonomous digita
 
 The overarching process and structure taken up by FotW is to handle three primary stages of development, each of which are explored over the course of several issues per topic. The three primary stages of development are:
 
-1. Liberation:
-   How to make yourself and your comrades, friends, and neighbors more independent from centralized, corporate services such as Google and social media, replacing those services with free and open source services and software.
+1. [Liberation](issues/1/)
+1. [Autonomization](issues/2/)
+1. [Collectivization](issues/3/)
 
-1. Autonomization:
-  How to ease yourself into building and using self-hosted services so as to create truly autonomous infrastructure.
-
-1. Collectivization:
-  How to expand and scale autonomous infrastructures into networks and multiplicities.
-
-This process progresses from starting with the least amount of technical knowledge, which can be implemented immediately, to the sector that requires the most knowledge, which you will get to eventually.
-
-The other issues in this series will be addendum issues tackling other issues relevant to larger goals. Those addendum issues will be:
-
-1. Defense 101
-    1. Tor & TorBrowser
-    1. Password managers
-1. Offense 101
-    1. Hack This Site
+This process progresses from starting with the least amount of technical knowledge, which can be implemented immediately, to the sector that requires the most knowledge, which you will get to eventually. The other issues in this series will be [addendum issues](issues/addendum/) tackling other issues relevant to larger goals.
 
 ## Other Content Ideas
 
