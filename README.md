@@ -47,7 +47,7 @@ The overarching process and structure taken up by FotW is to handle three primar
 
 This process progresses from starting with the least amount of technical knowledge, which can be implemented immediately, to the sector that requires the most knowledge, which you will get to eventually. The other issues in this series will be [addendum issues](issues/addendum/) tackling other issues relevant to larger goals.
 
-## Other Content Ideas
+## Current Contemplations
 
 - Design, revisited
 - "A quiet, niche war"
