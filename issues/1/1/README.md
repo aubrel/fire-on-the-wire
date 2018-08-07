@@ -1,9 +1,10 @@
 # Liberation: Issue 1
 
-In this issue, we will go on a crash course tour of digital tools most radicals don't talk about, and how (and why) to use them. 
+In this issue, we will go on a crash course tour of digital tools most radicals don't talk about, and how (and why) to use them. Liberation focuses on introducing easy-to-use tools that require little to no deep skill or familiarity with which to get started that nonetheless provide powerful infrastructural organizing capacity to individuals and groups.
 
 # Contents
 
+1. [Introduction](#introduction)
 1. [Messaging](#messaging)
     1. [Using Signal…effectively](#using-signal-effectively)
         1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
@@ -15,6 +16,10 @@ In this issue, we will go on a crash course tour of digital tools most radicals 
 1. [Organizing](#organizing)
     1. [Getting started with GitHub](#getting-started-with-github)
     1. [Getting started with Crabgrass](#getting-started-with-crabgrass)
+
+# Introduction
+
+A fact that often gets ignored is that there are a lot of talented developers out there with their hearts and work in the right places, who have poured blood, sweat, tears, and time into making great tools for other like-minded people. In the case of basic organizational and communications tools, the challenge far from creating new tools: there are thousands to choose from that have existed for decades. The challenge lies in understanding the fundamentals of what the tool does, and to not become seduced by pedantic arguments that split hairs between one over the other. Never let endless rhetoric distract or intimidate you from just picking up and trying out tools. At the very least, pick up the following and give them a shot; we'll provide you with some reasons we like the following.
 
 # Messaging
 
