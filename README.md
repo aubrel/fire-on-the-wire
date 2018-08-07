@@ -16,7 +16,7 @@ To make more accessible high-quality information and comprehensive guides on bui
 
 To break apart technophobia by empowering the ones who thought they could never be empowered due to trauma inflicted by abusive tech scenes or advanced by fear mongers who don't actually know what computers are.
 
-To speak directly to the experience of being a marginalized person who do not feel welcome in most "Tech Spaces."
+To speak directly to the experience of marginalized people who do not feel comfortable in most "Tech Spaces."
 
 To undermine the idea that the meme war is the most pertinent digital battle by giving motivated radical communities more powerful tools.
 
