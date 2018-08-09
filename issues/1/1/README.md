@@ -40,13 +40,15 @@ This distinction was once elegantly summarized as the difference between being o
 
 With asynchronous communication, all involved are on different clocks. This means that each person can get the same information in the same way, but at different times. Another way to think about this difference is to think about synchronous communication as a web, in which communication transmits from one point to another, and one action is dependent on another prior action.
 
+Whereas asynchronous communication is more like a watering hole. There are no connecting threads, and everyone comes and goes as they please. If there ate changes, those changes are discovered at different times.
+
 One thing that easily differentiates synchronous and asynchronous communications is that synchronous communications are ad-hoc and rarely written down _in a templatized way._
 
 A primary and easy distinction between these two methods is whether or not the communication was _recorded_, usually meaning _written down_. In synchronous methods, one does not necessarily need to write anything down, whereas asynchronous communication depends upon its being written down; otherwise there would be no way to have conversations without being in the same place at the same time, and if you don't do that, it is the view of this book that _you cannot organize meaningfully._ Period. Hence why it is so important to make this distinction right off the bat.
 
 Synchronous communication is of course just as vital. Nothing develops or grows without synchronous communication.
 
-The point here is, you need both forms absolutely. However, especially in radical circles, it's asynchronous communication that is terribly undervalued, and without a fundamental change in that, no meaningful organizing can happen.
+The point here is, you need both forms absolutely. However, especially in radical circles, it's asynchronous communication that is terribly undervalued, and without a fundamental change in that, no meaningful organizing can happen. Another thing that also happens, which we will address shortly, is that whatever asynchronous communication is being done should be _thoroughly detailed_, so that no follow up questions are needed and time does not go by waiting for an opportunity to have synchronous communication.
 
 Sometimes, we meet hybrid forms of communication, such as texting.
 
