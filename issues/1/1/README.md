@@ -5,11 +5,12 @@ In this issue, we will introduce some free, open source, and easy-to-use digital
 # Contents
 
 1. [Introduction](#introduction)
-1. [Synchronous communications](#synchronous-communications)
+1. [Communication forms](#communication-forms)
+1. [Synchronous communication](#synchronous-communication)
 1. [Messaging](#messaging) 
-        1. [Signal Private Messenger: A deeper dive](#signal-private-messenge)
-        1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
-        1. [How to get Signal Private Messenger](#how-to-get-signal-private-messenger)
+    1. [Signal Private Messenger: A deeper dive](#signal-private-messenge)
+    1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
+     1. [How to get Signal Private Messenger](#how-to-get-signal-private-messenger)
     1. [Using Jabber with OMEMO](#using-jabber-with-omemo)
 1. [Asynchronous communications](#asynchronous-communications)
     1. [Using a Sandstorm.io grain to host a subscribable calendar](#using-a-sandstormio-grain-to-host-a-subscribable-calendar)
@@ -31,7 +32,7 @@ Another word of advice: it is easy for groups who do not know enough to make mea
 
 At the very least, pick up the following and give them a shot; we'll provide you with some reasons why we like these tools. The fundamental principles introduced here will be built upon throughout this series.
 
-# Synchronous Communications
+# Communication Forms
 
 One of the most important distinctions that needs to be made immediately is the difference between synchronous and asynchronous communication.
 
@@ -59,6 +60,8 @@ Shapeshifting is the business we are in here, and this is the main principle of 
 
 Now, we will review some tools that deal with synchronous communication, and go over why this book believes they are good ones.
 
+# Synchronous communication
+
 ## Messaging
 
 When we talk about messaging, there are a few things we should clarify. When we say "messaging," what we actually mean is a form of communication that is:
@@ -71,11 +74,11 @@ When we talk about messaging, there are a few things we should clarify. When we 
 
 * Security: This is of course the first issue that arises in the context of radical organizing. How safe is it for you to use the tool you've chosen? How easy would it be for someone to compromise? What is your threat model and how does your tool fit into that model? How easy would it be for someone to misuse the tool? What does the worst case scenario look like in the case of compromise if using this tool? And so on and so forth. When it comes to these questions, there are a few measurable aspects that we can look at.
 
-        * Encryption: This comes up a lot when discussing any kind of digital tool. Is the transmission and content of the message encrypted? What does this mean?
+    * Encryption: This comes up a lot when discussing any kind of digital tool. Is the transmission and content of the message encrypted? What does this mean?
 
-        * Authentication: Where encryption is about securing the content and method of transportation, authentication is about securing the _source_ of the transmission. How do you know the source was not tampered with, changed, or intercepted on its way to you? How can you be sure that the person you think you're talking to is who they say they are?
+    * Authentication: Where encryption is about securing the content and method of transportation, authentication is about securing the _source_ of the transmission. How do you know the source was not tampered with, changed, or intercepted on its way to you? How can you be sure that the person you think you're talking to is who they say they are?
 
-        * Storage: Where are the messages being stored? Who in total has access to them? Can you trust every point at which the message traverses from origin to destination?
+    * Storage: Where are the messages being stored? Who in total has access to them? Can you trust every point at which the message traverses from origin to destination?
 
 * Ease of use: Is the tool easy to use?
 
