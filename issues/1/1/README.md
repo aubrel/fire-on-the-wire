@@ -10,12 +10,13 @@ In this issue, we will go on a crash course tour of digital tools most radicals 
         1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
         1. [How to get Signal Private Messenger](#how-to-get-signal-private-messenger)
     1. [Using Jabber with OMEMO](#using-jabber-with-omemo)
-    1. [What are, and how to use, ICS feeds](#what-are-and-how-to-use-ics-feeds)
 1. [Calendars](#calendars)
     1. [Using a Sandstorm.io grain to host a subscribable calendar](#using-a-sandstormio-grain-to-host-a-subscribable-calendar)
+    1. [What are, and how to use, ICS feeds](#what-are-and-how-to-use-ics-feeds)
 1. [Organizing](#organizing)
     1. [Getting started with GitHub](#getting-started-with-github)
     1. [Getting started with Crabgrass](#getting-started-with-crabgrass)
+    1. [Back to Sandstorm apps](#back-to-sandstorm-apps)
 
 # Introduction
 
