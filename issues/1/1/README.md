@@ -12,13 +12,14 @@ In this issue, we will introduce some free, open source, and easy-to-use digital
     1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
      1. [How to get Signal Private Messenger](#how-to-get-signal-private-messenger)
     1. [Using Jabber with OMEMO](#using-jabber-with-omemo)
-1. [Asynchronous communications](#asynchronous-communications)
-    1. [Using a Sandstorm.io grain to host a subscribable calendar](#using-a-sandstormio-grain-to-host-a-subscribable-calendar)
-    1. [What are, and how to use, ICS feeds](#what-are-and-how-to-use-ics-feeds)
+1. [Asynchronous communication](#asynchronous-communications)
+    1. [Calendars](#calendars)
+        1. [Using a Sandstorm.io grain to host a subscribable calendar](#using-a-sandstormio-grain-to-host-a-subscribable-calendar)
+        1. [What are, and how to use, ICS feeds](#what-are-and-how-to-use-ics-feeds)
 1. [Organizing](#organizing)
-    1. [Getting started with GitHub](#getting-started-with-github)
     1. [Getting started with Crabgrass](#getting-started-with-crabgrass)
     1. [Back to Sandstorm apps](#back-to-sandstorm-apps)
+    1. [Getting started with GitHub](#getting-started-with-github)
 
 # Introduction
 
@@ -103,23 +104,25 @@ Let's demystify the world of Signal, explain why it's actually a good idea to us
 ## Using Jabber with OMEMO
 > :construction: TK-TODO
 
-# Calendars
+# Asynchronous Communication
+
+## Calendars
 
 > :construction: TK-TODO Add a description re: using digital calendars.
 
-## Using a Sandstorm.io grain to host a subscribable calendar
+### Using a Sandstorm.io grain to host a subscribable calendar
 > :construction: TK-TODO
 
-## What are, and how to use, ICS feeds
+### What are, and how to use, ICS feeds
 > :construction: TK-TODO
 
-# Organizing
+## Organizing
 > :construction: TK-TODO Add a description re: organizing spaces.
 
-## Getting started with GitHub
+### Getting started with GitHub
 > :construction: TK-TODO
 
-## Getting started with Crabgrass
+### Getting started with Crabgrass
 > :construction: TK-TODO
 
 > :construction: TK-TODO Determine what other tools to add, and add their guides.
