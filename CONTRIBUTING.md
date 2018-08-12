@@ -6,7 +6,7 @@ Here's how to contribute.
 
 # Contribute Content
 
-## Current Issues
+## Current Working Issues
 
 The current issues we are working on are:
 
@@ -17,9 +17,20 @@ The current issues we are working on are:
 
 Check out our issue page for [Liberation(1.1)](https://github.com/aubrel/fire-on-the-wire/wiki/Liberation(1.1)) to see how we're working.
 
-### Methods
+### Conribution channels
 
-* Submit an [issue](https://github.com/aubrel/fire-on-the-wire/issues) with your thoughts and recommendations.
+1. Go to the [issues page](https://github.com/aubrel/fire-on-the-wire/issues) for this repo.
+1. Click "New Issue" on the right hand side.
+1. Use the following template to submit a suggestion for inclusion in the current working issue.
+1. Submit the issue.
+
+#### Issue template
+
+Copy and paste this template to submit in an issue.
+
+**Title:** Idea for Liberation(1.1)
+
+> :construction: TK-TODO: Add a template for issue contributions that makes sense with the Issue Page structure.
 
 > :information_source: In the near future, we will have more comprehensive methods of contribution.
 
