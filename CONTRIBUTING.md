@@ -10,7 +10,7 @@ Here's how to contribute.
 
 The current issues we are working on are:
 
-* [Liberation(1.1)](https://github.com/aubrel/fire-on-the-wire/wiki/Liberation(1.1))
+* Liberation(1.1) - [meta](https://github.com/aubrel/fire-on-the-wire/wiki/Liberation(1.1)), [content](https://github.com/aubrel/fire-on-the-wire/tree/master/issues/1/1)
 * [Addendum issues](https://github.com/aubrel/fire-on-the-wire/wiki)
 
 ### How we work
