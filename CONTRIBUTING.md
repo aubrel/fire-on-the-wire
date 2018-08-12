@@ -2,23 +2,36 @@
 
 FotW hearily accepts contributions! The only thing we ask is that your content be accurate and in line with [our general goals](issues/shared.md#goals). :wink:
 
-Here's how to contribute, if you're so inclined.
+Here's how to contribute.
 
-## What We Want
+# Contribute Content
 
-* Guides on using existent tools
-* Translations of existent texts
-* Theoretical writing around relevant concepts
+## Current Issues
 
-First, choose which [tier (volume)](issues/README.md#issues) your work fits in with best. Tiers are centered around a particular theme, mutually informed by the general level of skill and familiarity with digital tooling that is needed to understand the guide for the tool.
+The current issues we are working on are:
 
-We also have [Addendum issues](issues/addendum), which cover things that are not touched upon by the core tiers, including offense and defense, more expansive theoretical writing, and perhaps specific deep-dives into ideas we haven't even thought of yet. Addendums are like sattelites, and are the most openly free and community driven, where the core tiers serve as a general organizing principle for the main goals of this body of work.
+* [Liberation(1.1)](https://github.com/aubrel/fire-on-the-wire/wiki/Liberation(1.1))
+* [Addendum issues](https://github.com/aubrel/fire-on-the-wire/wiki)
 
-Both the core tiers and the addendums can be contributed to, and contributions to either are always welcome and open; the only difference is that what is included in the core tiers is selected more stringently. It's entirely possible that a contribution originally submitted for consideration in the core literature will make its way into an addendum of its own or as one part of an addendum issue.
+### How we work
 
-### Addendum Topics
+Check out our issue page for [Liberation(1.1)](https://github.com/aubrel/fire-on-the-wire/wiki/Liberation(1.1)) to see how we're working.
 
-See the [addendum](issues/addendum) page for current topics of interest. Other topics may organically emerge by virtue of being suggested through contributions.
+### Methods
+
+* Submit an [issue](https://github.com/aubrel/fire-on-the-wire/issues) with your thoughts and recommendations.
+
+> :information_source: In the near future, we will have more comprehensive methods of contribution.
+
+## Not sure where to contribute?
+
+Try this.
+
+1. Choose which [tier (volume)](issues/README.md#issues) your work or idea fits in with best.
+
+1. Or else, check out the [Addendum issues](issues/addendum). Addendums are like sattelites, and are the most openly free and community driven, where the core tiers serve as a general organizing principle for the main goals of this body of work.
+
+Both the core tiers and Addendums are open to contributions. The only difference is that what is included in the core tiers is selected more thematically.
 
 # Translate
 
