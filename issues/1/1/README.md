@@ -1,27 +1,30 @@
 # Liberation: Issue 1
 
+> :construction: TK-TODO: Change the content below to be more in line with the TOC and meta.
+
 In this issue, we will introduce some free, open source, and easy-to-use digital tools that most radicals don't talk about, as well as how (and why) to use them. Liberation(1) focuses on introducing tools that require little to no deep skill or familiarity with which to get started, which nonetheless provide powerful organizing abilities to both individuals and groups.
 
 # Contents
 
-1. [Introduction](#introduction)
-1. [Communication forms](#communication-forms)
-1. [Synchronous communication](#synchronous-communication)
-    1. [Messaging](#messaging) 
-        1. [Signal Private Messenger](#signal-private-messenge)
-            1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
-            1. [How to get Signal Private Messenger](#how-to-get-signal-private-messenger)
-        1. [Using Jabber with OMEMO](#using-jabber-with-omemo)
-1. [Asynchronous communication](#asynchronous-communications)
-    1. [Calendars](#calendars)
-        1. [Using a Sandstorm.io grain to host a subscribable calendar](#using-a-sandstormio-grain-to-host-a-subscribable-calendar)
-        1. [What are, and how to use, ICS feeds](#what-are-and-how-to-use-ics-feeds)
-1. [Organizing](#organizing)
-    1. [Getting started with Crabgrass](#getting-started-with-crabgrass)
-    1. [Back to Sandstorm apps](#back-to-sandstorm-apps)
-    1. [Getting started with GitHub](#getting-started-with-github)
+1. [On this mode of thinking](#on-this-mode-of-thiking)
+1. [Forms of communication](#forms-of-communication)
+    1. [Synchronous communication](#synchronous-communication)
+        1. [Messaging](#messaging) 
+            1. [Signal Private Messenger](#signal-private-messenge)
+                1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
+                1. [How to get Signal Private Messenger](#how-to-get-signal-private-messenger)
+            1. [Using Jabber with OMEMO](#using-jabber-with-omemo)
+     1. [Asynchronous communication](#asynchronous-communications)
+         1. [Calendars](#calendars)
+            1. [Using a Sandstorm.io grain to host a subscribable calendar](#using-a-sandstormio-grain-to-host-a-subscribable-calendar)
+            1. [What are, and how to use, ICS feeds](#what-are-and-how-to-use-ics-feeds)
+1. [Organizing spaces](#organizing-spaces)
+    1. On documentation
+    1. Wikis
+    1. Task organizing
+1. [Safety and security](#safety-and-security)
 
-# Introduction
+# On this mode of thinking
 
 The Western narrative of what it means to be a technologist has sadly never exactly been a holistic one, only ever enjoying a few brief moments of real magic throughout its history. The narrative has also become strangely backwards; hung by its ankles, perhaps to make the reality of what it means to have technical power harder to realize.
 
@@ -116,7 +119,7 @@ Let's demystify the world of Signal, explain why it's actually a good idea to us
 ### What are, and how to use, ICS feeds
 > :construction: TK-TODO
 
-## Organizing
+## Organizing spaces
 > :construction: TK-TODO Add a description re: organizing spaces.
 
 ### Getting started with GitHub
