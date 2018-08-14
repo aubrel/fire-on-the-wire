@@ -1,6 +1,7 @@
 # Liberation: Issue 1
 
 > :construction: TK-TODO: Change the content below to be more in line with the TOC and meta.
+
 > :construction: TK-TODO: Re-write/strongly edit the intro texts.
 
 In this issue, we will introduce some free, open source, and easy-to-use digital tools that most radicals don't talk about, as well as how (and why) to use them. Liberation(1) focuses on introducing tools that require little to no deep skill or familiarity with which to get started, which nonetheless provide powerful organizing abilities to both individuals and groups.
