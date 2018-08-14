@@ -76,18 +76,6 @@ When we talk about messaging, there are a few things we should clarify. When we 
 
 * Ad-hoc: Messaging services in the way we mean them refers to something that is "ad-hoc," meaning on the fly and for a specific purpose that arises at the moment. Because of this, it is more conversational than infrastructural.
 
-### Considerations
-
-* Security: This is of course the first issue that arises in the context of radical organizing. How safe is it for you to use the tool you've chosen? How easy would it be for someone to compromise? What is your threat model and how does your tool fit into that model? How easy would it be for someone to misuse the tool? What does the worst case scenario look like in the case of compromise if using this tool? And so on and so forth. When it comes to these questions, there are a few measurable aspects that we can look at.
-
-    * Encryption: This comes up a lot when discussing any kind of digital tool. Is the transmission and content of the message encrypted? What does this mean?
-
-    * Authentication: Where encryption is about securing the content and method of transportation, authentication is about securing the _source_ of the transmission. How do you know the source was not tampered with, changed, or intercepted on its way to you? How can you be sure that the person you think you're talking to is who they say they are?
-
-    * Storage: Where are the messages being stored? Who in total has access to them? Can you trust every point at which the message traverses from origin to destination?
-
-* Ease of use: Is the tool easy to use?
-
 ## Using Signal…effectively
 
   >  :construction: TK-TODO Fit the below into the structure of the above. Address each issue outlined above below.
