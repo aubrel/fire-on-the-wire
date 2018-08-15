@@ -1,21 +1,20 @@
-# Liberation: Issue 1
+# Liberation(1.1)
 
 > :construction: TK-TODO: Change the content below to be more in line with the TOC and meta.
 
 > :construction: TK-TODO: Re-write/strongly edit the intro texts.
 
-In this issue, we will introduce some free, open source, and easy-to-use digital tools that most radicals don't talk about, as well as how (and why) to use them. Liberation(1) focuses on introducing tools that require little to no deep skill or familiarity with which to get started, which nonetheless provide powerful organizing abilities to both individuals and groups.
+## Contents
 
-# Contents
-
-1. [On this mode of thinking](#on-this-mode-of-thiking)
+1. [As a mode of thinking](#as-a-mode-of-thiking)
 1. [Forms of communication](#forms-of-communication)
     1. [Synchronous communication](#synchronous-communication)
-        1. [Messaging](#messaging) 
-            1. [Signal Private Messenger](#signal-private-messenge)
-                1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
-                1. [How to get Signal Private Messenger](#how-to-get-signal-private-messenger)
-            1. [Using Jabber with OMEMO](#using-jabber-with-omemo)
+        1. [Messaging](#messaging)
+            1. Text messaging
+                1. [Signal Private Messenger](#signal-private-messenge)
+                    1. [What is Signal Private Messenger?](#what-is-signal-private-messenger)
+                    1. [How to get Signal Private Messenger](#how-to-get-signal-private-messenger)
+                1. [Using Jabber with OMEMO](#using-jabber-with-omemo)
      1. [Asynchronous communication](#asynchronous-communications)
          1. [Calendars](#calendars)
             1. [Using a Sandstorm.io grain to host a subscribable calendar](#using-a-sandstormio-grain-to-host-a-subscribable-calendar)
@@ -28,7 +27,27 @@ In this issue, we will introduce some free, open source, and easy-to-use digital
 
 # On this mode of thinking
 
-The Western narrative of what it means to be a technologist has sadly never exactly been a holistic one, only ever enjoying a few brief moments of real magic throughout its history. The narrative has also become strangely backwards; hung by its ankles, perhaps to make the reality of what it means to have technical power harder to realize.
+_“When scholars study a thing,
+they strive to kill it first,if it's alive;
+then they have the parts
+and the'be lost the whole,
+for the link that's missing was the living soul.”_
+
+― Johann Wolfgang von Goethe, _Faust: Part I_ 
+
+In 1974, what was arguably the first "personal computer" was released to a consumer market. In that long moment, a spectre was let out quietly into the world.
+
+Outside the context of war, the Western narrative of digital technology has virtually no seat. Or rather, the narrative untouched by some form of war is not the one the West tends to tell itself. The mainstream Historical version of technological advancement has further deepened the rift between us by championing advancement in the name of colonial genocide in various expressions. The story of Industry—of Capital—is a story of detached and sterile violence. It's the story of the atom bomb. Of the industrial farm. Of the slave wage. And it's the story that gets told about digital technologies.
+
+With where we are now, the reaction of not wanting to look at a screen is rational.
+
+But there's a war going on. And there's one thing the authors of this book discovered, a secret that some of us know but hardly get a chance to talk about, but we found it out and we can't forget it now. _That story can be overwritten._ The narrative isn't truth. The truth about digital technologies is magic. It's speech. It's the beautiful logic-rythyms of the earth. It's the vibration of the crystals that make up your computer screen, catching up to the way you think; making it real, expressed, visible to others. It's _creation._ And there's nothing more dangerous for something that wants to be thought of as the only creating force in the world, than the realization of your own power. The word "computer" is derived from
+
+The story of this war doesn't exclude you; it's _about_ you, dear reader.
+
+You could divert the energy, appropriate it, take it back.
+
+Now hung by its ankles, perhaps to make the reality of what it means to have technical power harder to realize.
 
 The Tech Industry, and technologists informed by it, will want you to believe that being a technologist means writing code, and creating new software. This, however, is a bad starting place, for the main reason that knowing how to build something does not necessarily mean you know how to use the thing effectively. But moreover, a great number of needs have been anticipated by many people throughout the last decades, and many people who have already seasoned their programming skills have created free and open source software that you can pick up and use right now.
 
