@@ -28,21 +28,33 @@ In this issue, we will introduce some free, open source, and easy-to-use digital
 
 # On this mode of thinking
 
-The Western narrative of what it means to be a technologist has sadly never exactly been a holistic one, only ever enjoying a few brief moments of real magic throughout its history. The narrative has also become strangely backwards; hung by its ankles, perhaps to make the reality of what it means to have technical power harder to realize.
+_“When scholars study a thing, they strive to kill it first, if it's alive; then they have the parts and the'be lost the whole, for the link that's missing was the living soul.”_
 
-The Tech Industry, and technologists informed by it, will want you to believe that being a technologist means writing code, and creating new software. This, however, is a bad starting place, for the main reason that knowing how to build something does not necessarily mean you know how to use the thing effectively. But moreover, a great number of needs have been anticipated by many people throughout the last decades, and many people who have already seasoned their programming skills have created free and open source software that you can pick up and use right now.
+― Johann Wolfgang von Goethe, _Faust, Part I_
 
-Learning how to use software effectively used to be the starting point for technologists, and it is the opinion of this book that that is where everyone should start, if for no other reason (though there are plenty of other reasons we will come to) than to become familiar with the incredible landscape of what already exists.
+Before any of the following work can be absorbed, the reader must accept the following premises.
 
-Another word of advice: it is easy for groups who do not know enough to make meaningful distinctions to talk endlessly without ever trying anything. Never let endless rhetoric distract or intimidate you from just picking up and trying things out.
+1. Here is a practice born from bloody war that nothing can nor will erase.
 
-At the very least, pick up the following and give them a shot; we'll provide you with some reasons why we like these tools. The fundamental principles introduced here will be built upon throughout this series.
+1. The ones who make you feel stupid don't know what they're talking about.
+
+1. The ones who make you feel weak are afraid of you (and should be).
+
+1. Digital technologies are never really about specific tools. The ones who argue this will always waste your time. 
+
+1. You are already powerful.
 
 # Communication Forms
 
-One of the most important distinctions that needs to be made immediately is the difference between synchronous and asynchronous communication.
+One of the most important distinctions to be made is the difference between **synchronous** and **asynchronous** communication forms.
 
-This distinction was once elegantly summarized as the difference between being on the same or different "clocks." In other words, whether or not the events in a sequence, like a conversation, follow immediately one after the other. When you're talking to someone in person, for example, this is a method of synchronous communication. We do not normally say one thing to a friend, to have that friend then walk away from us for a few hours and then return and pick up the conversation immediately where it was left off. This may happen occasionally, but it is not how we normally have conversations. Note, too, that even in this special case, when the conversation is returned to, someone needs to remind the other where they left off.
+## Synchronous communication
+
+When you're talking to someone in person, this is a mode of synchronous communication. We do not normally say one thing to a friend, to have that friend then walk away from us for a few hours and then return and pick up the conversation immediately where it was left off. This may happen occasionally, but it is not how we normally have conversations. Note, too, that even in this special case, when the conversation is returned to, someone needs to remind the other where they left off.
+
+Synchronous communication implies that the sender and receiver are on the same "clock," and that all points in the communications are sequential.
+
+## Asynchronous communication
 
 With asynchronous communication, all involved are on different clocks. This means that each person can get the same information in the same way, but at different times. Another way to think about this difference is to think about synchronous communication as a web, in which communication transmits from one point to another, and one action is dependent on another prior action.
 
