@@ -2,8 +2,6 @@
 
 > :construction: TK-TODO: Change the content below to be more in line with the TOC and meta.
 
-> :construction: TK-TODO: Re-write/strongly edit the intro texts.
-
 In this issue, we will introduce some free, open source, and easy-to-use digital tools that most radicals don't talk about, as well as how (and why) to use them. Liberation(1) focuses on introducing tools that require little to no deep skill or familiarity with which to get started, which nonetheless provide powerful organizing abilities to both individuals and groups.
 
 # Contents
@@ -54,6 +52,32 @@ When you're talking to someone in person, this is a mode of synchronous communic
 
 Synchronous communication implies that the sender and receiver are on the same "clock," and that all points in the communications are sequential.
 
+### Types
+
+### Use cases
+
+### Some tools
+
+## Using Signal…effectively
+
+  >  :construction: TK-TODO Fit the below into the structure of the above. Address each issue outlined above below.
+
+If you're anywhere near radical circles, you've almost definitely heard about [Signal Private Messenger](https://signal.org), and are maybe already using it. If you felt comfortable enough to ask the person who told you to download an app you've never heard of and use it exclusively for messaging why you would do such a thing, you might have heard something along the lines of, "something, something, end-to-end encrypted." Oh, and maybe something about a private... security... number? Or something...?
+
+Let's demystify the world of Signal, explain why it's actually a good idea to use, address some of the common fears about using it, and explain the vital importance of Signal Safety Numbers.
+
+### What is Signal Private Messenger?
+
+> :construction: TK-TODO
+
+### How to get Signal Private Messenger
+
+> :construction: TK-TODO
+
+## Using Jabber with OMEMO
+> :construction: TK-TODO
+
+
 ## Asynchronous communication
 
 With asynchronous communication, all involved are on different clocks. This means that each person can get the same information in the same way, but at different times. Another way to think about this difference is to think about synchronous communication as a web, in which communication transmits from one point to another, and one action is dependent on another prior action.
@@ -80,34 +104,6 @@ Shapeshifting is the business we are in here, and this is the main principle of 
 
 Now, we will review some tools that deal with synchronous communication, and go over why this book believes they are good ones.
 
-# Synchronous communication
-
-## Messaging
-
-When we talk about messaging, there are a few things we should clarify. When we say "messaging," what we actually mean is a form of communication that is:
-
-* Synchronous: More often than not, when we use text messaging, we are expecting a response in not too long. At the very least, everyone is on the same "clock."
-
-* Ad-hoc: Messaging services in the way we mean them refers to something that is "ad-hoc," meaning on the fly and for a specific purpose that arises at the moment. Because of this, it is more conversational than infrastructural.
-
-## Using Signal…effectively
-
-  >  :construction: TK-TODO Fit the below into the structure of the above. Address each issue outlined above below.
-
-If you're anywhere near radical circles, you've almost definitely heard about [Signal Private Messenger](https://signal.org), and are maybe already using it. If you felt comfortable enough to ask the person who told you to download an app you've never heard of and use it exclusively for messaging why you would do such a thing, you might have heard something along the lines of, "something, something, end-to-end encrypted." Oh, and maybe something about a private... security... number? Or something...?
-
-Let's demystify the world of Signal, explain why it's actually a good idea to use, address some of the common fears about using it, and explain the vital importance of Signal Safety Numbers.
-
-### What is Signal Private Messenger?
-
-> :construction: TK-TODO
-
-### How to get Signal Private Messenger
-
-> :construction: TK-TODO
-
-## Using Jabber with OMEMO
-> :construction: TK-TODO
 
 # Asynchronous Communication
 
