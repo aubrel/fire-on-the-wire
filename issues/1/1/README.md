@@ -48,11 +48,16 @@ One of the most important distinctions to be made is the difference between **sy
 
 ## Synchronous communication
 
-When you're talking to someone in person, this is a mode of synchronous communication. We do not normally say one thing to a friend, to have that friend then walk away from us for a few hours and then return and pick up the conversation immediately where it was left off. This may happen occasionally, but it is not how we normally have conversations. Note, too, that even in this special case, when the conversation is returned to, someone needs to remind the other where they left off.
-
 Synchronous communication implies that the sender and receiver are on the same "clock," and that all points in the communications are sequential.
 
+For example, talking to someone in person is a mode of synchronous communication, as conversations are best had when each person speaks in sequence, and within the same relative time frame as the other person. We do not normally say one thing to a friend, to have that friend then walk away from us for a few hours and then return and pick up the conversation immediately where it was left off. (Sure, this may happen occasionally, but it is not how we normally have conversations.)
+
 ### Types
+
+* Instant messaging
+* Texting (SMS)
+    * Signal (end-to-end encrypted data packet)
+    * Jabber with OMEMO
 
 ### Use cases
 
