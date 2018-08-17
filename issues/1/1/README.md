@@ -8,7 +8,7 @@ In this issue, we will introduce some free, open source, and easy-to-use digital
 
 # Contents
 
-1. [On this mode of thinking](#on-this-mode-of-thiking)
+1. [New technologism](#new-technologism)
 1. [Forms of communication](#forms-of-communication)
     1. [Synchronous communication](#synchronous-communication)
         1. [Messaging](#messaging) 
@@ -26,19 +26,27 @@ In this issue, we will introduce some free, open source, and easy-to-use digital
     1. Task organizing
 1. [Safety and security](#safety-and-security)
 
-# On this mode of thinking
+# New technologism
 
-The Western narrative of what it means to be a technologist has sadly never exactly been a holistic one, only ever enjoying a few brief moments of real magic throughout its history. The narrative has also become strangely backwards; hung by its ankles, perhaps to make the reality of what it means to have technical power harder to realize.
+> :construction: TK-TODO: When the spirit strikes proper, write more prose.
 
-The Tech Industry, and technologists informed by it, will want you to believe that being a technologist means writing code, and creating new software. This, however, is a bad starting place, for the main reason that knowing how to build something does not necessarily mean you know how to use the thing effectively. But moreover, a great number of needs have been anticipated by many people throughout the last decades, and many people who have already seasoned their programming skills have created free and open source software that you can pick up and use right now.
+Perhaps we understand ourselves more the more and more we build our systems inwards; perhaps there is a great truth about humanity or the universe reflected in the way digital technologies can be used. Maybe they are only expressive of a colonialist, Capitalist mindset. Or maybe the truth is some twisting, bending tree branch that goes between the cracks of those things. Something in-between. Something magic. Something that has been pinned down and overly controlled because its potential power terrifies the ones in power.
 
-Learning how to use software effectively used to be the starting point for technologists, and it is the opinion of this book that that is where everyone should start, if for no other reason (though there are plenty of other reasons we will come to) than to become familiar with the incredible landscape of what already exists.
+We believe the truth is something closer to this: our view is too full of smoke and ash to see clearly. Thesse rough definitions we have, complex and problematic, are simply what we have in the face of a world that uses genuine innovation for devastation - it's own breed of evil.
 
-Another word of advice: it is easy for groups who do not know enough to make meaningful distinctions to talk endlessly without ever trying anything. Never let endless rhetoric distract or intimidate you from just picking up and trying things out.
+That is, we believe, some of our job here, now: to clear some of the smoke from the fire. To get the signal from the noise. The image from the static. To grow from the ashes.
 
-At the very least, pick up the following and give them a shot; we'll provide you with some reasons why we like these tools. The fundamental principles introduced here will be built upon throughout this series.
+The business of fostering clarity is not an easy one, and inhabiting this space is difficult. It is contradictory. At times, surprisingly hard to hold.
 
-# Communication Forms
+The thing to remember is this: there is no one answer. No one way to understand digital technologies. Anyone who says otherwise condemns not only themselves and their future but the future of every person who takes the idea in.
+
+We've been doomed to a two-party system, more or less: one party will tell you that digital technologies are the root of all evil; a pure expression of war and consumerism. The other will believe this, too, but this won't make them necessarily shirk away from it. But both of these parties suffer from the same problem: they fail to understand _what digital technologies are._
+
+It is one of the goals of this series to illuminate, at the very least, another way of _considering_ digital technologies, by offering a new way of approaching these tools.
+
+We will start, then, at the root, and spread 
+
+# Communication
 
 One of the most important distinctions that needs to be made immediately is the difference between synchronous and asynchronous communication.
 
