@@ -30,6 +30,18 @@ In this issue, we will introduce some free, open source, and easy-to-use digital
 
 > :construction: TK-TODO: When the spirit strikes proper, write more prose.
 
+Computing as logical thinking objectified.
+
+What is "logical thinking"?
+
+Different from aesthetic thinking (expression) and from feeling (emotion).
+
+Logical thinking is not the reductively described "intelligence," as though there were such a thing.
+
+Logical thinking is the manifestation of the willful and conscious decision to make relations between parts — a process that can happen in many different ways. There is no one way to do logical thinking.
+
+Computing started as an apparatus of war, like many things, then developed into a liberatory and accidentally unregulated system, which inspired an insatiable hunger for transparency.
+
 Perhaps we understand ourselves more the more and more we build our systems inwards; perhaps there is a great truth about humanity or the universe reflected in the way digital technologies can be used. Maybe they are only expressive of a colonialist, Capitalist mindset. Or maybe the truth is some twisting, bending tree branch that goes between the cracks of those things. Something in-between. Something magic. Something that has been pinned down and overly controlled because its potential power terrifies the ones in power.
 
 We believe the truth is something closer to this: our view is too full of smoke and ash to see clearly. Thesse rough definitions we have, complex and problematic, are simply what we have in the face of a world that uses genuine innovation for devastation - it's own breed of evil.
