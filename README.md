@@ -1,5 +1,7 @@
 # Fire on the Wire
 
+<img src="https://raw.githubusercontent.com/aubrel/fire-on-the-wire/1ca8d412321622a68535981318be1b303a9926ae/whisper-cover.png" alt="Cover image." height=350px>
+
 **Fire on the Wire (FotW)** is a monthly(-ish) periodcal in the format of serial guides about building autonomous digital infrastructures, as well as offensive and defensive digital tactics, techniques and procedures ("TTPs"). The guides are distilled from the work of several local New York City and national United States-based anarcho-autonomist groups (with the intention of making ourselves available to international groups as well through [localization initiatives](CONTRIBUTING.md#translate)), including the [Anarcho-Tech NYC Collective](https://github.com/AnarchoTechNYC), the [Tech Autonomists](https://tech-autonomy.com/), and select [others](https://github.com/AnarchoTechNYC/meta/wiki/Accomplices-and-allies) who more-or-less share a common liberatory vision.
 
 # Goals
