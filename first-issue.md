@@ -2,6 +2,10 @@
 
 > :construction: TK-TODO
 
+* Holistic re-introduction to digital technologies
+* Thinking from the ground up
+* "Live off the land" = autonomous practices
+
 ## The importance of asynchronous communications
 
 A group must be able to communicate in ways that _are not_ synchronous. Limiting oneself to speaking only in immediate, synchronous ways limits what people can do, in large part due to the fact that what was said wasn't written down in a way such that meaningful information can be instantaneously conveyed without asking.
