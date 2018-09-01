@@ -6,11 +6,6 @@
 
 Each volume contains practical step-by-step guides on how to create autonomous digital infrastructures, with strong consideration given to defensive and offensive practices. These guides are sutured together by philosophical investigations and reflections on the nature of digital technologies that serve to make a distinction between _computers_ and _computing_, and to offer counterpoints to the vast majority of the general rhetoric among our friends with regards to digital technologies.
 
-# Contributing
-
-Contributions are very welcome. FotW is an open source project. We encourage all who wind up here to copy and redistribute these texts in whatever manner you prefer, in accordance with our [license](#license).
-
-See also: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 # License
 
